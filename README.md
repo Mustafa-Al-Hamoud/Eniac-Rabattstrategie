@@ -22,9 +22,9 @@ The objective is to clean and prepare the datasets, explore customer purchasing 
 
 ### Revenue Overview
 <p align="center">
-  <img src="images/charts_01.png" width="25%">
-  <img src="images/charts_02_01.png" width="25%">
-  <img src="images/charts_02_02.png" width="25%">
+  <img src="images/charts_01.png" width="29%", hight= 300 px>
+  <img src="images/charts_02_01.png" width="29%", hight= 300 px>
+  <img src="images/charts_02_02.png" width="29%", hight= 300 px>
 </p>
 **Figure 1 – Revenue Overview**
 
