@@ -13,7 +13,7 @@
 
 <p align="center">
 
-<a href="YOUR_COLAB_LINK">
+<a href="[YOUR_COLAB_LINK](https://github.com/Mustafa-Al-Hamoud/ecommerce_discount_analysis/blob/main/presentation/Die_Rabattstrategie_von_ENIAC.pptx)">
 <img src="https://colab.research.google.com/assets/colab-badge.svg">
 </a>
 
