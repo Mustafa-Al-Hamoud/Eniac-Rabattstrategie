@@ -4,9 +4,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
-![SQL](https://img.shields.io/badge/SQL-Database-blue)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)
@@ -325,11 +323,8 @@ This project was completed using:
 
 - Python
 - Pandas
-- NumPy
 - Matplotlib
-- SQL
 - Jupyter Notebook
-- Git
 - GitHub
 
 ---
@@ -385,9 +380,7 @@ Potential future enhancements include:
 
 IT Engineer | Data Analytics Enthusiast
 
-GitHub: https://github.com/YOUR_USERNAME
-
-LinkedIn: YOUR_LINKEDIN_PROFILE
+GitHub: https://github.com/Mustafa-Al-Hamoud
 
 ---
 
