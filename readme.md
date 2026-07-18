@@ -13,11 +13,11 @@
 
 <p align="center">
 
-<a href="[YOUR_COLAB_LINK](https://github.com/Mustafa-Al-Hamoud/ecommerce_discount_analysis/blob/main/presentation/Die_Rabattstrategie_von_ENIAC.pptx)">
+<a href="[YOUR_COLAB_LINK]">
 <img src="https://colab.research.google.com/assets/colab-badge.svg">
 </a>
 
-<a href="YOUR_PRESENTATION_LINK">
+<a href="https://github.com/Mustafa-Al-Hamoud/ecommerce_discount_analysis/blob/main/presentation/Die_Rabattstrategie_von_ENIAC.pptx">
 <img src="https://img.shields.io/badge/Presentation-View%20Slides-blue?style=for-the-badge&logo=microsoftpowerpoint">
 </a>
 
