@@ -340,7 +340,7 @@ Throughout this project, the following data analytics skills were applied:
 - Data Visualization
 - Business Storytelling
 - Business Recommendations
-- Git & GitHub Documentation
+- GitHub Documentation
 
 ---
 
@@ -385,9 +385,8 @@ GitHub: https://github.com/Mustafa-Al-Hamoud
 
 ## Acknowledgements
 
-The dataset used in this project is based on a fictional e-commerce company (**Eniac**) and is intended exclusively for educational purposes.
-
-The analysis, business questions, visualizations, and recommendations were independently developed as part of this data analytics portfolio project.
+This project analyzes sales data from (**Eniac**) as part of a data analytics training project. The objective is to explore discount strategies 
+and generate business insights based on the available dataset.
 
 ---
 
