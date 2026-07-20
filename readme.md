@@ -324,6 +324,7 @@ This project was completed using:
 - Python
 - Pandas
 - Matplotlib
+- Seaborn
 - Jupyter Notebook
 - GitHub
 
